@@ -49,7 +49,7 @@ plt.show()
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/3fa98864-01a0-488a-83e7-b7d951c79d58)
+![image](https://github.com/user-attachments/assets/2cc98bce-fb79-4fae-a729-900816ab46a6)
 
 
 ## Result:
